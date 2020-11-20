@@ -4,3 +4,4 @@ disallow: /about.html
 disallow: /contact.html
 disallow: /blog.html
 disallow: /post-details.html
+disallow: /best-travel-blog-for-men
