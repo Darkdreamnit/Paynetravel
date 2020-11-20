@@ -1,10 +1,4 @@
-/* 
 
-TemplateMo 551 Stand Blog
-
-https://templatemo.com/tm-551-stand-blog
-
-*/
 
 body {
   font-family: 'Roboto', sans-serif;
@@ -31,6 +25,10 @@ ul {
 
 h1,h2,h3,h4,h5,h6 {
 	margin: 0px;
+}
+
+h1 {
+	color: white;
 }
 
 .main-button a {
@@ -473,12 +471,12 @@ header .navbar {
 	color: #f48840;
 }
 
-.blog-posts .down-content p {
+/******** .blog-posts .down-content p {
 	padding: 25px 0px;
 	margin: 25px 0px;
 	border-top: 1px solid #eee;
 	border-bottom: 1px solid #eee;
-}
+}**********/
 
 .blog-posts .down-content ul.post-share {
 	text-align: right;
