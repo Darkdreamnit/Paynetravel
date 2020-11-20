@@ -1,0 +1,4 @@
+User-agent: *
+sitemap: https://paynedtravels.com/sitemap.xml
+disallow /about.html
+disallow /contact.html
