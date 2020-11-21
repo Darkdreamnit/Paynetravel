@@ -584,10 +584,11 @@ ul.page-numbers li a:hover {
 	border-bottom: none;
 }
 
-@media (max-width: 767px) {
+@media (max-width: 3000px) {
     img {
-        width: 100%;
+        width: 90%;
     }
+
 
 .blog-posts .comments ul li .author-thumb {
 	display: inline;
